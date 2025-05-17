@@ -55,7 +55,7 @@ void draw()
         textFont(miFuente);
         textSize(30);
         fill(0,255,0);
-        text("Bienvenidos al yelmo", 150, 370);
+        text("Bienvenidos al yermo", 150, 370);
         posX1 = random(width);
         posY1 = random(height);
         fill(0,255,0);
